@@ -4,8 +4,8 @@ carrera.
 Actualmente estoy aprendiendo Python, Java, JavaScript, HTML, conceptos sobre IA, Big Data, etc...
 
 Puedes contactarme a través de mi correo; juandt0407@gmail.com
-
---/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--/-/--
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 Hey! My name is Juan Diaz, I am a System Engineer Student, in this GitHub I do project 'bout my career.
 
